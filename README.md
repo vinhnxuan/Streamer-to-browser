@@ -1,5 +1,8 @@
 # Streaming from RTP source
-
+## Build libdatachannel dependencies
+```sh
+Please follow instructions under https://github.com/paullouisageneau/libdatachannel/blob/master/BUILDING.md
+```
 ## Build streamer
 ```sh
 mkdir build
